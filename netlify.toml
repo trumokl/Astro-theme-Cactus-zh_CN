@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/client/*"
+  to = "/client/index.html"
+  status = 200
